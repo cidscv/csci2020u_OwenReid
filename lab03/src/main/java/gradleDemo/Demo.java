@@ -1,4 +1,4 @@
-package main.java.gradleDemo;
+package gradleDemo;
 
 import org.apache.commons.validator.routines.*;
 
